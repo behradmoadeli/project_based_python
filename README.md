@@ -16,10 +16,14 @@ This repository contains a collection of Python applications, ranging from algor
 
 The objective of this portfolio is to elevate functional scripting into robust, maintainable, and scalable software packages. While the logic varies in complexity—from simple algorithms to AI-powered services—the underlying architecture consistently adheres to production-grade standards, demonstrating proficiency in:
 
-- **Modular Architecture:*- Implementing clean `src/` layouts and decoupling logic.
-- **Dependency Management:*- Ensuring reproducible environments.
-- **Quality Assurance:*- Writing comprehensive unit tests and type enforcement.
-- **Scalability:*- Structuring code for collaboration and future CI/CD integration.
+- **Modular Architecture:**
+    - Implementing standard layouts and decoupling modular logic.
+- **Dependency Management:**
+    - Ensuring reproducible environments.
+- **Quality Assurance:**
+    - Writing comprehensive unit tests and type enforcement.
+- **Scalability:**
+    - Structuring code for collaboration and future CI/CD integration.
 
 > *Project concepts and definitions are adapted from the [Pytopia.ai](https://www.pytopia.ai) curriculum.*
 
