@@ -30,37 +30,37 @@ The objective of this portfolio is to elevate functional scripting into robust, 
 ## 📂 Project List
 
 ### 🎈 Level I
-01. Number Guesser
-02. Rock Paper Scissors
-03. Password Generator
-04. Streamlit Dashboard
-05. Happy Numbers
-06. Number to words
-07. Monty Hall Simulation Problem
-08. Tic Tac Toe
-09. Sorting Algorithms
-10. Directory Tree Generator
-11. Contact Book
+00. Number Guesser
+01. Rock Paper Scissors
+02. Password Generator
+03. Streamlit Dashboard
+04. Happy Numbers
+05. Number to words
+06. Monty Hall Simulation Problem
+07. Tic Tac Toe
+08. Sorting Algorithms
+09. Directory Tree Generator
+10. Contact Book
 
 ### 🚀 Level II
-12. Sending Email
-13. Site Connectivity Checker
-14. Wordle
-15. Blogging Platform
-16. Youtube Downloader
-17. Currency Converter
-18. Resize Image
-19. Personal Homepage with Streamlit
-20. Gender and Race Prediction from Name
+11. Sending Email
+12. Site Connectivity Checker
+13. Wordle
+14. Blogging Platform
+15. Youtube Downloader
+16. Currency Converter
+17. Resize Image
+18. Personal Homepage with Streamlit
+19. Gender and Race Prediction from Name
 
 ### 🏆 Level III
-21. Web Scraper
-22. News Information Extraction Scraper
-23. Chatbot
-24. Face Detection
+20. Web Scraper
+21. News Information Extraction Scraper
+22. Chatbot
+23. Face Detection
 
 ### 🎓 Capstone Project
-25. AI Powered Customer Service
+24. AI Powered Customer Service
 
 ## 🏗️ Repository Structure
 
