@@ -1,14 +1,14 @@
 # Project Based Python: Engineering Edition
 
-![GitHub last commit](https://img.shields.io/github/last-commit/behradmoadeli/project_based_python?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/behradmoadeli/project_based_python?style=flat-square)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/behradmoadeli/project_based_python?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/behradmoadeli/project_based_python?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/behradmoadeli/project_based_python)
+![GitHub repo size](https://img.shields.io/github/repo-size/behradmoadeli/project_based_python)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/behradmoadeli/project_based_python)
+![GitHub top language](https://img.shields.io/github/languages/top/behradmoadeli/project_based_python)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/behradmoadeli/project_based_python/main.yml?label=tests&style=flat-square)
-![License](https://img.shields.io/github/license/behradmoadeli/project_based_python?style=flat-square)
-![Python Version](https://img.shields.io/badge/python-3.12%2B-blue?style=flat-square&logo=python&logoColor=white)
-![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+![License](https://img.shields.io/github/license/behradmoadeli/project_based_python)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue&logo=python&logoColor=white)
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 **Status:**- Active Development
 
