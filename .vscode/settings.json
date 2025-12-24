@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "~/miniconda3/envs/project_based_python/bin/python",
+  "python.terminal.activateEnvironment": true
+}
